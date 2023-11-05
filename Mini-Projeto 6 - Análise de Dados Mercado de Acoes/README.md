@@ -4,8 +4,8 @@ Neste Mini-Projeto foi usado dados reais, disponiveis publicamente, e construir 
 
 O dados foram extraídos do portal da Nasdaq (https://www.nasdaq.com)
 
-** A cotação de ações é de fato uma série temporal(ous seja, um evento que ocorre ao longo do tempo) e o Power BI oferece uma funcionalidade para minipular esse tipo de dados, chamado de Time Intelligence (que é um recurso de manipulação de forma simplificada). 
- --- Também foi utilizado o recurso de Narrativa Inteligente para que o Power BI ajude a explicar o comportamento dos dados de forma automática.
+- A cotação de ações é de fato uma série temporal(ous seja, um evento que ocorre ao longo do tempo) e o Power BI oferece uma funcionalidade para minipular esse tipo de dados, chamado de Time Intelligence (que é um recurso de manipulação de forma simplificada). 
+- Também foi utilizado o recurso de Narrativa Inteligente para que o Power BI ajude a explicar o comportamento dos dados de forma automática.
 
  ## Nosso Dashboard deverá responder a estas perguntas de negócio abaixo:
 
