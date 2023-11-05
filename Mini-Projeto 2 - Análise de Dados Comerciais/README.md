@@ -1,0 +1,2 @@
+# Mini-Projeto 2 - Dashboard Comercial - Performance de Vendas
+Foi elaborado diversas visualizações para compreender a performance de vendas de uma empresa fictícia por diferentes ângulos. Usaremos dados ficticios para este trabalho. Foi aplicado alguns recursos interessantes do Power BI como a "Narrativa Inteligente", "Principais Influenciadores","gráficos de faixas" e "Criação de menu para índice do Dashboard"
